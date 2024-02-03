@@ -120,7 +120,7 @@ def interface():
         pass
 
     choice = ''
-    while choice != '4':
+    while choice != '5':
         print(
             'Варианты действия:',
             '1. Добавление контакта',
